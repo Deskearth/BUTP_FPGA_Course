@@ -1,0 +1,3 @@
+*.js linguist-language=VerilogHDL
+*.css linguist-language=VerilogHDL
+*.html linguist-language=VerilogHDL
