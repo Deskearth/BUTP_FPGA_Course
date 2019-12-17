@@ -5,7 +5,7 @@
 ### [第11周：](https://github.com/Deskearth/FPGA_Course/tree/master/Week11)
 1.  用JK触发器实现8421码十进制计数器
 2.  设计一个24秒倒计时器
-### 第12周：
+### [第12周：](https://github.com/Deskearth/FPGA_Course/tree/master/Week12)
 1. 设计一个汽车尾灯自动控制系统
 > 要求：根据汽车行驶状态自动控制汽车尾灯
 
