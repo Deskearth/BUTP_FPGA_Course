@@ -2,7 +2,7 @@
 * /src: Verilog源码
 * /simulation: TestBench
 
-## [数字系统设计实验（题目四——猜拳游戏的设计与实现）](https://github.com/Deskearth/BUTP_FPGA_Course/tree/master/Experiment)
+## 数字系统设计实验（题目四——猜拳游戏的设计与实现）
 测试芯片型号:EPM1270T144C5
 
 ### 题目要求
