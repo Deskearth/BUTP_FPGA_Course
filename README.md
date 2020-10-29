@@ -41,4 +41,4 @@
 	4. 在欢迎界面可通过拨码开关选择双人对战或单人对战模式，在单人对战模式下系统通过生成的伪随机数随机出拳，玩家通过按键出拳，规则与双人对战模式相同；
 
 #### 结构框图
-!(结构框图)[./pic/structure.png]
+!(结构框图)[https://github.com/Deskearth/BUTP_FPGA_Course/blob/master/pic/structure.png]
