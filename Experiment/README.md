@@ -22,3 +22,6 @@
 
 ### 结构框图
 ![结构框图](https://github.com/Deskearth/BUTP_FPGA_Course/blob/master/pic/structure.png)
+
+### BUG说明
+随机数发生器模块的原理有点问题，这会造成生成数字的随机性较差，如果您想要参考这一功能，您可以考虑采用M序列发生器。
