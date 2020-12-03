@@ -1,4 +1,4 @@
-# 北京邮电大学数字电路与逻辑设计课程FPGA实验代码（Verilog）
+# 北京邮电大学数字电路与逻辑设计课程FPGA实验（Verilog）
 ## [第10周：](https://github.com/Deskearth/FPGA_Course/tree/master/Week10)       
 1. 实现带异步置位、复位功能的上升沿触发JK触发器     
 2. 实现74HC595-8位移存器 
